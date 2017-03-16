@@ -1,0 +1,9 @@
+c:\users\innovergent\documents\visual studio 2015\Projects\TheQuest\TheQuest\bin\Debug\TheQuest.exe.config
+c:\users\innovergent\documents\visual studio 2015\Projects\TheQuest\TheQuest\bin\Debug\TheQuest.exe
+c:\users\innovergent\documents\visual studio 2015\Projects\TheQuest\TheQuest\bin\Debug\TheQuest.pdb
+c:\users\innovergent\documents\visual studio 2015\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.Form1.resources
+c:\users\innovergent\documents\visual studio 2015\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+c:\users\innovergent\documents\visual studio 2015\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.Cache
+c:\users\innovergent\documents\visual studio 2015\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.exe
+c:\users\innovergent\documents\visual studio 2015\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.pdb
+C:\Users\InnoVergent\Documents\Visual Studio 2015\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.csprojResolveAssemblyReference.cache
